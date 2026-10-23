@@ -29,7 +29,7 @@ streamlit run dsa_ai_app.py
 
 "Crie uma query SQL para calcular a média de uma coluna com base em duas outras colunas de uma tabela."
 
-"Crie uma query SQL utilizando CTE (Common Table Expressions) e funções Window. O objetivo da query é calcular a média móvel de vendas por mês."
+"Crie uma query SQL utilizando CTE (Common Table Expressions) e funções Window." (O objetivo da query é calcular a média móvel de vendas por mês.)
 
 * Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
 

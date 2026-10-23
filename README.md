@@ -1,5 +1,5 @@
 # SQL Para Análise de Dados e Data Science 🔎🎲
-Projeto Especial - DSA AI SQL Query Generator Text-to-SQL
+# Projeto Especial - DSA AI SQL Query Generator Text-to-SQL
 
 * Instale o Anaconda Python no seu computador. Links de download para instalação:
 

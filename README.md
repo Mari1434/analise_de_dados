@@ -34,4 +34,5 @@ streamlit run dsa_ai_app.py
 * Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
 
 conda deactivate
+
 conda remove --name dsasqlaigenerator --all

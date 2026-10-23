@@ -19,6 +19,7 @@ conda activate dsasqlaigenerator (ou: source activate dsasqlaigenerator)
 * Instale o pip e as dependências:
 
 conda install pip
+
 pip install -r requirements.txt 
 
 * Execute o comando abaixo e acesse a app pelo navegador.

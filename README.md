@@ -1,5 +1,2 @@
 # Análise de Dados 🔎🎲
-Repositório para exercícios e projetos da pós-graduação em Análise de Dados. Dividido em:
-
-* Branch de Exercicios
-* Branch de Projetos
+Branch para os exercícios do primeiro curso da pós-graduação: SQL Para Análise de Dados e Data Science.

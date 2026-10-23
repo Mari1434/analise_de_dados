@@ -1,36 +1,36 @@
 # SQL Para Análise de Dados e Data Science 🔎🎲
-# Projeto Especial - DSA AI SQL Query Generator Text-to-SQL
+Projeto Especial - DSA AI SQL Query Generator Text-to-SQL
 
-# Instale o Anaconda Python no seu computador. Links de download para instalação:
+* Instale o Anaconda Python no seu computador. Links de download para instalação:
 
 https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Windows-x86_64.exe (Windows)
 https://repo.anaconda.com/archive/Anaconda3-2024.10-1-MacOSX-arm64.pkg   (MacOS Apple Silicon)
 https://repo.anaconda.com/archive/Anaconda3-2024.10-1-MacOSX-x86_64.pkg  (MacOS Intel)
 https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Linux-x86_64.sh    (Qualquer Distribuição Linux)
 
-# Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
+* Abra o terminal ou prompt de comando, navegue até a pasta com os arquivos e execute o comando abaixo para criar um ambiente virtual:
 
 conda create --name dsasqlaigenerator python=3.12
 
-# Ative o ambiente:
+* Ative o ambiente:
 
 conda activate dsasqlaigenerator (ou: source activate dsasqlaigenerator)
 
-# Instale o pip e as dependências:
+* Instale o pip e as dependências:
 
 conda install pip
 pip install -r requirements.txt 
 
-# Execute o comando abaixo e acesse a app pelo navegador.
+* Execute o comando abaixo e acesse a app pelo navegador.
 
 streamlit run dsa_ai_app.py
 
-# Exemplos para geração de queries:
+* Exemplos para geração de queries:
 
-# Crie uma query SQL para calcular a média de uma coluna com base em duas outras colunas de uma tabela.
-# Crie uma query SQL utilizando CTE (Common Table Expressions) e funções Window. O objetivo da query é calcular a média móvel de vendas por mês.
+- Crie uma query SQL para calcular a média de uma coluna com base em duas outras colunas de uma tabela.
+- Crie uma query SQL utilizando CTE (Common Table Expressions) e funções Window. O objetivo da query é calcular a média móvel de vendas por mês.
 
-# Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
+* Use os comandos abaixo para desativar o ambiente virtual e remover o ambiente (opcional):
 
 conda deactivate
 conda remove --name dsasqlaigenerator --all

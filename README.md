@@ -6,3 +6,6 @@ Branches já criadas:
 Curso 1 - SQL Para Análise de Dados e Data Science:
 - Exercicios_SQL
 - Projeto_SQL
+
+Curso 2 - Projetos de Análise de Dados com Linguagem Python:
+- Projetos_Python

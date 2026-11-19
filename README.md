@@ -1,6 +1,8 @@
 # SQL Para Análise de Dados e Data Science 🔎🎲
 # Projeto Especial - DSA AI SQL Query Generator Text-to-SQL
 
+Assistente virtual que cria consultas SQL prontas para agilizar a análise de dados.
+
 * Instale o Anaconda Python no seu computador. Links de download para instalação:
 
 https://repo.anaconda.com/archive/Anaconda3-2024.10-1-Windows-x86_64.exe (Windows)
